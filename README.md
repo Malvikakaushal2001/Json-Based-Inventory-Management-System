@@ -11,6 +11,7 @@ This repository is having all the codes with json files for making an Inventory 
 - Name of Product
 - Price
 - Quantity
+- Time is shown at the billing time
 
 #### My Project can do the following things
 1. Generate Bills
